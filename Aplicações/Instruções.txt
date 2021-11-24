@@ -1,0 +1,8 @@
+Para usar as aplicações é necessário ter o node.js instalado no computador.
+Com o node.js instalado, abra o prompt de comando e acesse o diretorio contendo os arquivos da aplicação a ser executada. 
+Com o cmd no diretorio utilize o comando npm.install
+Após o termino da instalação utilize o comando node em seguida o nome do arquivo javascript que sera executado
+exemplo node authorizationServer.js;
+E o servidor sera iniciado, é necessario iniciar cada servidor individualmente em janelas diferentes do cmd. 
+Importante ressaltar os nodulos so precisam ser instalados uma vez no diretorio.
+O servidor sera inciado em http://localhost:9000/
